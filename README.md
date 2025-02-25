@@ -2,7 +2,7 @@
 
    
 - 👀 I'm working on Agent-Based Modeling with NetLogo and text analysis using Large Language Models.
-- 📫 How to reach me: `gmai`<!-- -->`l{dot}com` ⟵ `chhyu`<!-- -->`123{at}`
+- 📫 How to reach me: `gmail{dot}com` ⟵ `chhyu123{at}`
 
 
 <!---
