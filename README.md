@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Changhong-YU (于长洪)
 
    
-- 👀 I'm working on Agent-Based Modeling with NetLogo and text analysis using Large Language Models.
+- 👀 My research interests are the sociology of knowledge and network science.
 - 📫 How to reach me: `gmail「dot」com` ⟵ `chhyu123「at」`
 
 
