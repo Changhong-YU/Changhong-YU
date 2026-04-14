@@ -2,7 +2,7 @@
 
    
 - 👀 My research interests are the sociology of knowledge and network science.
-- 📫 How to reach me: `gmail「dot」com` ⟵ `chhyu123「at」`
+- 📫 How to reach me: `gmail「dot」com` ⟵ `bcykpcx「at」`
 
 
 <!---
